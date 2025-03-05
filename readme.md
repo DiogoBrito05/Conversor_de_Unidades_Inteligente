@@ -14,9 +14,9 @@ Ele permite converter diversas unidades de medida de forma rápida e intuitiva.
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5** → Estrutura da página
-- **CSS3** → Estilização e responsividade
-- **JavaScript** → Lógica de conversão
+- **HTML5** 
+- **CSS3** 
+- **JavaScript** 
 
 
 
