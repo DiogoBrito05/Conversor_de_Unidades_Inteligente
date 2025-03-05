@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Unidades Inteligente</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Conversor de Unidades</h2>
+        <input type="number" id="valor" placeholder="Digite o valor">
+        <select id="tipo">
+            <option value="km-miles">Quilômetros ➝ Milhas</option>
+            <option value="miles-km">Milhas ➝ Quilômetros</option>
+            <option value="kg-lb">Quilos ➝ Libras</option>
+            <option value="lb-kg">Libras ➝ Quilos</option>
+            <option value="c-f">Celsius ➝ Fahrenheit</option>
+            <option value="f-c">Fahrenheit ➝ Celsius</option>
+            <option value="m-ft">Metros ➝ Pés</option>
+            <option value="ft-m">Pés ➝ Metros</option>
+            <option value="l-gal">Litros ➝ Galões</option>
+            <option value="gal-l">Galões ➝ Litros</option>
+        </select>
+        <button onclick="converter()">Converter</button>
+        <h3 id="resultado"></h3>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
