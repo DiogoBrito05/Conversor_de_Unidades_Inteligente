@@ -18,9 +18,5 @@ Ele permite converter diversas unidades de medida de forma rápida e intuitiva.
 - **CSS3** → Estilização e responsividade
 - **JavaScript** → Lógica de conversão
 
-## 📂 Estrutura do Projeto
 
-O projeto está organizado da seguinte maneira:
-
-====Irei finalizar
 
